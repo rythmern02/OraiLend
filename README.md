@@ -2,6 +2,8 @@
 
 **OraiLend** is a cross-chain lending and borrowing platform built on Oraichain. It allows users to lend and borrow assets across multiple blockchain networks, leveraging Oraichain’s AI capabilities for enhanced functionality, security, and user experience.
 
+![OraiLend Logo](assets/images/orailend.png)
+
 ## Table of Contents
 
 - [Overview](#overview)
